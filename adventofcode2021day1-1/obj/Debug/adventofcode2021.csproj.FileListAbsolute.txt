@@ -1,0 +1,6 @@
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021\bin\Debug\adventofcode2021.exe
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021\bin\Debug\adventofcode2021.pdb
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021\obj\Debug\adventofcode2021.csprojAssemblyReference.cache
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021\obj\Debug\adventofcode2021.csproj.CoreCompileInputs.cache
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021\obj\Debug\adventofcode2021.exe
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021\obj\Debug\adventofcode2021.pdb

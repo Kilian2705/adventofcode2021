@@ -1,0 +1,6 @@
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021day2-1\bin\Debug\adventofcode2021day2_1.exe
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021day2-1\bin\Debug\adventofcode2021day2_1.pdb
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021day2-1\obj\Debug\adventofcode2021day2-1.csprojAssemblyReference.cache
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021day2-1\obj\Debug\adventofcode2021day2-1.csproj.CoreCompileInputs.cache
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021day2-1\obj\Debug\adventofcode2021day2_1.exe
+C:\Users\Skikk\RiderProjects\adventofcode2021\adventofcode2021day2-1\obj\Debug\adventofcode2021day2_1.pdb
